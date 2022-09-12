@@ -1,7 +1,7 @@
 safe: true
-title: "Capstone Domain: Deloitte Travel Models"
+title: "Capstone Domain: WILDS Project"
 source: .
 destination: _site
 url: "https://acloninger.github.io"
-baseurl: "/capstone-deloitte-travel-models"
+baseurl: "/capstone-WILDS-project"
 permalink: /:url/
