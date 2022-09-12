@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Quantifying prediction confidence and domain adaptation on the Wilds dataset"
-doodle: "/doodle.png"
+doodle: "./doodle.png"
 permalink: /
 ---
 
