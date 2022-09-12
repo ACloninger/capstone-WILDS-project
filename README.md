@@ -1,1 +1,1 @@
-# capstone-deloitte-travel-models
+# capstone-WILDS-project
