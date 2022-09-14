@@ -25,7 +25,7 @@ Some questions we wil be answering throughout this domain:
 ## Result replication (introduction to topic)
 
 We will delve into this area via the following papers:
-
+- 
 
 You can find a collection of references [here]({{ "papers/referencesForTopics" | absolute_url }})
 
