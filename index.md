@@ -24,7 +24,7 @@ One of the important issues in learning today is the ability to train on one dis
 
 We will delve into this area via the following papers:
 
-You can find a collection of references [here]({{ "papers/referencesForTopics" | absolute_url }})
+You can find a collection of references [here]({{ "/papers/referencesForTopics" | absolute_url }})
 
 ## Section Participation
 
