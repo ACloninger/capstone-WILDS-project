@@ -15,7 +15,7 @@ Developed by Alex Cloninger and Yoav Freund
 
 ---
 
-# Introduction
+## Introduction
 
 One of the important issues in learning today is the ability to train on one distribution and test on a different one. The WILDS project (https://wilds.stanford.edu/) is devoted to datasets of this type (multiple datasets for the same problem, collected from different setups). The goal of this project is two fold: to distinguish between easy examples (where confident predictions can be made) and hard examples (where the machine should output "I don't know"), and to construct methods that will adapt the test distribution to make trained classifiers more easily deployable on test data.  We will explore different methods, using both labeled and unlabeled data.
  
@@ -25,9 +25,11 @@ Some questions we wil be answering throughout this domain:
 ## Result replication (introduction to topic)
 
 We will delve into this area via the following papers:
-- 
 
-# Section Participation
+
+You can find a collection of references [here]({{ "papers/referencesForTopics" | absolute_url }})
+
+## Section Participation
 
 Participation in the weekly discussion section is *mandatory*. Each
 week, you are responsible for doing the reading/task assigned in the
@@ -46,7 +48,7 @@ end of the quarter.
 
 ---
 
-# Schedule
+## Schedule
 
 |Week|Topic|
 |--|--|
@@ -62,13 +64,13 @@ end of the quarter.
 |10|Present Proposals|
 
 ---
-# Office Hours
+## Office Hours
 TBD
 
-# Course location
+## Course location
 SDSC E-230
 
-# Slack location
+## Slack location
 TBD
 
 
