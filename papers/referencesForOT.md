@@ -20,3 +20,4 @@ doodle: /doodle.png
 
 - [Shafer, Glenn, and Vladimir Vovk. "A Tutorial on Conformal Prediction." Journal of Machine Learning Research 9.3 (2008)](https://www.jmlr.org/papers/volume9/shafer08a/shafer08a.pdf)
 - [Conformal Prediction with Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4410411)
+- [Isaac Gibbs, Emmanuel Candes / Adaptive Conformal Inference Under Distribution Shift](https://proceedings.neurips.cc/paper/2021/hash/0d441de75945e5acbc865406fc9a2559-Abstract.html)
