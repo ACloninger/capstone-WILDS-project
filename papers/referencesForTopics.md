@@ -16,6 +16,9 @@ doodle: /doodle.png
 
 - [Paper about Domain Adaptation using OT](http://proceedings.mlr.press/v119/dhouib20b/dhouib20b.pdf)
 
+# Boosting, Bagging and Trees
+- [Tutorial on Randomo Forests](https://www.datacamp.com/tutorial/random-forests-classifier-python)
+
 # Conformal Prediction
 
 - [Shafer, Glenn, and Vladimir Vovk. "A Tutorial on Conformal Prediction." Journal of Machine Learning Research 9.3 (2008)](https://www.jmlr.org/papers/volume9/shafer08a/shafer08a.pdf)
