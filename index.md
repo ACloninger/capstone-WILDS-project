@@ -50,7 +50,7 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction]({{ "/weeks/01-Introduction" | absolute_url }})|
-|2|[Ensembles and Stability]({{ "/weeks/02-ensembles and stability" | absolute_url }})|
+|2|[Ensembles and Stability]({{ "/weeks/02-ensembles-and-stability" | absolute_url }})|
 |3|[]({{ "/weeks/03-" | absolute_url }})|
 |4|[]({{ "/weeks/04-" | absolute_url }})|
 |5|[]({{ "/weeks/05-" | absolute_url }})|
