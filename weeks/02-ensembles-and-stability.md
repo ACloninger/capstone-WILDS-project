@@ -4,13 +4,11 @@ title: Week 02
 doodle: /doodle.png
 ---
 
-# Why are ensembles useful?
+# Why are Ensembles Stable?
 
-## Topics
+## Class Notes
 
-This week's assignments will guide you through the following topics:
-* I will add here an explanation for why ensemble averaging improves stability and the utility of margins.
-* topic 2
+* [class notes](pdfs/XuzheZhi-class-notes.pdf)
 
 ## Tasks
 
