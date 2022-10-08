@@ -8,7 +8,7 @@ doodle: /doodle.png
 
 ## Class Notes
 
-* [Olass notes by Xuzhe Zhi](pdfs/XuzheZhi-class-notes.pdf)
+* [Class notes by Xuzhe Zhi](pdfs/XuzheZhi-class-notes.pdf)
 * [On the stability of ensambles](pdfs/RandomForsts-Dynalist.pdf)
 
 ## Tasks
