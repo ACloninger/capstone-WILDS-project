@@ -8,7 +8,8 @@ doodle: /doodle.png
 
 ## Class Notes
 
-* [class notes](pdfs/XuzheZhi-class-notes.pdf)
+* [Olass notes by Xuzhe Zhi](pdfs/XuzheZhi-class-notes.pdf)
+* [On the stability of ensambles](pdfs/RandomForsts-Dynalist.pdf)
 
 ## Tasks
 
@@ -37,4 +38,14 @@ newsgroups_test = fetch_20newsgroups(subset='test')
 ## Weekly Questions
 
 Answer the following questions
-1. Can you find examples where the assigned label is clearly wrong?
+1. Solve the problem at the end of [On the stability of ensambles](pdfs/RandomForsts-Dynalist.pdf)
+2. Generate a graph of the std as a function of $p(x)$ for one hundred trees $n=100$
+3. Find an example for each of the following categories, print out the news item and say whether you agree with the assigned label:
+   * Most trees predict politics and the label is politics.
+   * Most trees predict not politics and the label is not politics.
+   * About half the trees predict politics  and the label is politics
+   * About half the trees predict politics  and the label is not politics
+   * Most trees predict politics and the label is not politics.
+   * Most trees predict not politics and the label is politics.
+
+
