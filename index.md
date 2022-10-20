@@ -52,7 +52,7 @@ end of the quarter.
 |1|[Introduction]({{ "/weeks/01-Introduction" | absolute_url }})|
 |2|[Ensembles-and-Stability]({{ "/weeks/02-ensembles-and-stability" | absolute_url }})|
 |3|[Color Domain Adaptation]({{ "/weeks/03-color-domain-adaptation" | absolute_url }})|
-|4|[]({{ "/weeks/04-" | absolute_url }})|
+|4|[Sinkhorn Transport and Larger Replication Discussion]({{ "/weeks/04-sinkhorn-and-gaussian-model" | absolute_url }})|
 |5|[]({{ "/weeks/05-" | absolute_url }})|
 |6|[]({{ "/weeks/06-" | absolute_url }})|
 |7|[]({{ "/weeks/07-" | absolute_url }})|
