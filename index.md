@@ -54,8 +54,8 @@ end of the quarter.
 |3|[Color Domain Adaptation]({{ "/weeks/03-color-domain-adaptation" | absolute_url }})|
 |4|[Sinkhorn Transport and Larger Replication Discussion]({{ "/weeks/04-sinkhorn-and-gaussian-model" | absolute_url }})|
 |5|[Differing Densities and Partial Transport]({{ "/weeks/05-differing-densities-partial-transport" | absolute_url }})|
-|6|[]({{ "/weeks/06-" | absolute_url }})|
-|7|[]({{ "/weeks/07-" | absolute_url }})|
+|6|[Boosting]({{ "/weeks/06-Boosting" | "/weeks/06-Boosting" }})|
+|7|[Structure of plan for Q2 project]({{ "/weeks/07-Structure of plan for Q2 project" }})|
 |8|[]({{ "/weeks/08-" | absolute_url }})|
 |9|[]({{ "/weeks/09-" | absolute_url }})|
 |10|Present Proposals|
