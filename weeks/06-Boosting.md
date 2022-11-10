@@ -1,6 +1,6 @@
 We review boosting, margins and related topics.
 
-[Slides](https://docs.google.com/presentation/d/1O0a_gY1ZBLJInZgXt9bW6V4tXLmgJ66_/edit?usp=share_link&ouid=110910549275477154864&rtpof=true&sd=true)
+* [Slides](https://docs.google.com/presentation/d/1O0a_gY1ZBLJInZgXt9bW6V4tXLmgJ66_/edit?usp=share_link&ouid=110910549275477154864&rtpof=true&sd=true)
 
 ## A few references:
 * **A good place to start:** Freund, Yoav, Robert Schapire, and Naoki Abe. "A short introduction to boosting." Journal-Japanese Society For Artificial Intelligence 14.771-780 (1999): 1612.
