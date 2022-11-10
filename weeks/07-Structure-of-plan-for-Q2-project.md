@@ -12,9 +12,9 @@ The authoring tools must support mathematical notation,  sectioning and imported
 The recommended tool is Latex, Markdown with formula support (such as jupyter markdown) is also acceptable.
 Word and plain text are discouraged,
 
-1. Description of the learning problem:  describe, using mathematical notation what is the learning problem you aim to address. What parts of the problem are supervised? what parts are unsupervised?
-2. Describe which ML algorithms you plan to use, if the algorithm is not common knowledge, describe it. Are you planning to develop your own algorithms?
-3. What do you plan to implement/extend yourself and what software packages do you plan to use. Give enough details for others to replicate.
-4. What data do you plan to use, give enough details for others to replicate.
-5. What performance measures are you planning to use? What alternative algorithms do you plan to compare with?  How would you know if your method does not work?
+1. **Problem:** Description of the learning problem:  describe, using mathematical notation what is the learning problem you aim to address. What parts of the problem are supervised? what parts are unsupervised?
+2. **Algorithms:** Describe which ML algorithms you plan to use, if the algorithm is not common knowledge, describe it. Are you planning to develop your own algorithms?
+3. **Use existing code vs. write yourself** What do you plan to implement/extend yourself and what software packages do you plan to use. Give enough details for others to replicate.
+4. **Data:** What data do you plan to use, give enough details for others to replicate.
+5. **Performance Measures** What performance measures are you planning to use? What alternative algorithms do you plan to compare with?  How would you know if your method does not work?
 
