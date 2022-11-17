@@ -56,7 +56,7 @@ end of the quarter.
 |5|[Differing Densities and Partial Transport]({{ "/weeks/05-differing-densities-partial-transport" | absolute_url }})|
 |6|[Boosting]({{ "/weeks/06-Boosting" | "/weeks/06-Boosting" | absolute_url }})|
 |7|[Structure of plan for Q2 project]({{ "/weeks/07-Structure-of-plan-for-Q2-project" | absolute_url}})|
-|8|[]({{ "/weeks/08-" | absolute_url }})|
+|8|[Comparing distributions using trees]({{ "/weeks/08-Comparing-distributions-using-trees" | absolute_url}})|
 |9|[]({{ "/weeks/09-" | absolute_url }})|
 |10|Present Proposals|
 
